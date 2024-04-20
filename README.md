@@ -1,4 +1,6 @@
-# Web-application-app-for-BinaryClassification-using-Streamlit
+
+# 🍄🍄Welcome to the Mushroom Classification Web App!🍄🍄
+
 ## Models used in this project are :
 SVM, Logistic Regression, Random Forest
 ## Dataset information:
@@ -33,3 +35,12 @@ Yes
 ### Class Labels:
 
 edible=e, poisonous=p
+
+## Key Features:
+
+Classification using SVM, Logistic Regression, and Random Forest algorithms
+Interactive user interface powered by Streamlit
+Easy-to-understand visualizations for model evaluation
+Get started with mushroom classification today!
+
+Feel free to tweak it to better suit your style or specific details of your project!🍄🍄🍄
