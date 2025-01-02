@@ -44,3 +44,7 @@ Easy-to-understand visualizations for model evaluation
 Get started with mushroom classification today!
 
 Feel free to tweak it to better suit your style or specific details of your project!🍄🍄🍄
+
+## Contributors:
+
+- Ayoub Aziamimer
